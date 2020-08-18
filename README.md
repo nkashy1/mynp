@@ -1,2 +1,2 @@
 # mynp
-Special type annotations and mypy type checks for numpy
+Special type annotations and mypy type checks for numpy, PyTorch, TensorFlow, etc.
